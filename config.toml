@@ -1,4 +1,5 @@
-baseURL = 'https://corinnabath.de'
+# baseURL = 'https://corinnabath.de'
+baseURL = 'https://corinnabath.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "minimal-theme"
