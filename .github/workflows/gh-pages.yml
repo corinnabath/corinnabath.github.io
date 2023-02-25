@@ -1,4 +1,4 @@
-name: Hugo 2 gh-pages
+name: Build and Push Hugo Site
 
 on:
   push:
