@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Page on My New Hugo Site</title>
-    <link>https://corinnabath.de/</link>
+    <link>https://corinnabath.github.io/</link>
     <description>Recent content in Home Page on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 13:50:02 +0100</lastBuildDate><atom:link href="https://corinnabath.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 13:50:02 +0100</lastBuildDate><atom:link href="https://corinnabath.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Part 1/2</title>
-      <link>https://corinnabath.de/subdir1/part2/content/</link>
+      <link>https://corinnabath.github.io/subdir1/part2/content/</link>
       <pubDate>Sat, 25 Feb 2023 14:41:59 +0100</pubDate>
       
-      <guid>https://corinnabath.de/subdir1/part2/content/</guid>
+      <guid>https://corinnabath.github.io/subdir1/part2/content/</guid>
       <description>Part 2 Content</description>
     </item>
     
     <item>
       <title>Part 1/1</title>
-      <link>https://corinnabath.de/subdir1/part1/content/</link>
+      <link>https://corinnabath.github.io/subdir1/part1/content/</link>
       <pubDate>Sat, 25 Feb 2023 14:41:55 +0100</pubDate>
       
-      <guid>https://corinnabath.de/subdir1/part1/content/</guid>
+      <guid>https://corinnabath.github.io/subdir1/part1/content/</guid>
       <description>Content 1 / 1</description>
     </item>
     
     <item>
       <title>Content 2</title>
-      <link>https://corinnabath.de/subdir2/content/</link>
+      <link>https://corinnabath.github.io/subdir2/content/</link>
       <pubDate>Sat, 25 Feb 2023 14:41:09 +0100</pubDate>
       
-      <guid>https://corinnabath.de/subdir2/content/</guid>
+      <guid>https://corinnabath.github.io/subdir2/content/</guid>
       <description>Content 2</description>
     </item>
     
     <item>
       <title>Content 1</title>
-      <link>https://corinnabath.de/subdir1/content/</link>
+      <link>https://corinnabath.github.io/subdir1/content/</link>
       <pubDate>Sat, 25 Feb 2023 14:41:06 +0100</pubDate>
       
-      <guid>https://corinnabath.de/subdir1/content/</guid>
+      <guid>https://corinnabath.github.io/subdir1/content/</guid>
       <description>Content 1</description>
     </item>
     
     <item>
       <title>About Links</title>
-      <link>https://corinnabath.de/about/</link>
+      <link>https://corinnabath.github.io/about/</link>
       <pubDate>Sat, 25 Feb 2023 14:03:11 +0100</pubDate>
       
-      <guid>https://corinnabath.de/about/</guid>
+      <guid>https://corinnabath.github.io/about/</guid>
       <description>Both of this variants work:
 Home Home See Cross-References </description>
     </item>
     
     <item>
       <title>Hallo</title>
-      <link>https://corinnabath.de/posts/hallo/</link>
+      <link>https://corinnabath.github.io/posts/hallo/</link>
       <pubDate>Sat, 25 Feb 2023 14:02:56 +0100</pubDate>
       
-      <guid>https://corinnabath.de/posts/hallo/</guid>
+      <guid>https://corinnabath.github.io/posts/hallo/</guid>
       <description>Hallo, das ist ein Post!</description>
     </item>
     
